@@ -1,6 +1,6 @@
 # Practice_Muilti_Agent.
 My first hands-on Multi-Agent AI practice notebook using Python  built for learning, experimenting, and exploring how AI agents work together
-Practice Multi-Agent Notebook 🤖✨
+Practice Multi-Agent Notebook 
 
 Excited to share my very first practice multi-agent project! 
 This notebook is a hands-on practice project where I explored how multiple AI agents can work together, communicate, and perform tasks collaboratively using Python.
