@@ -14,4 +14,4 @@ It’s not a complete project  just a practice notebook to learn and experiment 
  For testing, use your own API key.
 
 Happy to share my first practice agent notebook with everyone! 
-You can also test it and share your feedback. 🚀
+You can also test it and share your feedback. 
